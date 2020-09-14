@@ -1,6 +1,8 @@
 # LSA
 
 practial 1
+
+
 Step 1: Installing DHCP Server in Ubuntu
         $ sudo apt install isc-dhcp-server
         
